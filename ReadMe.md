@@ -15,6 +15,7 @@
 ![OpenFL](https://img.shields.io/badge/openfl-%2324afc4.svg?style=for-the-badge&logo=haxe&logoColor=white)
 ![HaxeFlixel](https://img.shields.io/badge/haxeflixel-%2300cc33.svg?style=for-the-badge&logo=haxe&logoColor=white)
 <br>
+![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
