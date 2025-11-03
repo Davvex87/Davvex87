@@ -1,7 +1,24 @@
+# 🌟 About me:
+- Programmer
+- 5 Years of experience
+- Software Developer
+- Backend Developer
+- Game Developer
+- Micro-controller Programmer (arduino & expressif/ESP)
+
+
+
+
+<br>
+
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/WQJtbYU3ma)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Davvex87)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dvvex87@gmail.com) 
+
+
+
+<br>
 
 # 💻 Tech Stack:
 ![Haxe](https://img.shields.io/badge/haxe-%23F68812.svg?style=for-the-badge&logo=haxe&logoColor=white)
@@ -10,6 +27,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![OpenFL](https://img.shields.io/badge/openfl-%2324afc4.svg?style=for-the-badge&logo=haxe&logoColor=white)
@@ -29,9 +48,30 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Roblox](https://img.shields.io/badge/roblox-%23AF0F0F.svg?style=for-the-badge&logo=roblox&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Davvex87&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Davvex87&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davvex87&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and manual editing -->
+
+<br>
+
+# 📊 GitHub Stats:
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Davvex87&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=200" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davvex87&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=300" />
+
+
+
+<br>
+
+# 📚 Top Repositories:
+
+<a href="https://github.com/Davvex87/reflaxe.lua">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davvex87&&theme=github_dark&repo=reflaxe.lua" height="100px"/>
+</a>
+<a href="https://github.com/Davvex87/roblox-hx">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davvex87&&theme=github_dark&repo=roblox-hx" height="100px"/>
+</a>
+<a href="https://github.com/Davvex87/Super-HScript">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davvex87&&theme=github_dark&repo=Super-HScript" height="100px"/>
+</a>
+<a href="https://github.com/Davvex87/TweenStep">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davvex87&&theme=github_dark&repo=TweenStep" height="100px"/>
+</a>
