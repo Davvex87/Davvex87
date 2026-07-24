@@ -54,24 +54,5 @@
 
 # 📊 GitHub Stats:
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Davvex87&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=200" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davvex87&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=300" />
-
-
-
-<br>
-
-# 📚 Top Repositories:
-
-<a href="https://github.com/Davvex87/reflaxe.lua">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davvex87&&theme=github_dark&repo=reflaxe.lua" height="100px"/>
-</a>
-<a href="https://github.com/Davvex87/roblox-hx">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davvex87&&theme=github_dark&repo=roblox-hx" height="100px"/>
-</a>
-<a href="https://github.com/Davvex87/Super-HScript">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davvex87&&theme=github_dark&repo=Super-HScript" height="100px"/>
-</a>
-<a href="https://github.com/Davvex87/TweenStep">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davvex87&&theme=github_dark&repo=TweenStep" height="100px"/>
-</a>
+<img height=200 align="center" src="./profile/stats.svg" />
+<img height=200 align="center" src="./profile/top-langs.svg" />
